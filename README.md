@@ -1,4 +1,6 @@
 # farhan-widget
+Nama : Farhan Alifviandi
+NPM  : 213510299
 
 ## Project setup
 ```
